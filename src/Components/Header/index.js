@@ -16,8 +16,8 @@ function Header() {
         <Block width="45">
           <h2>Apenas convidados</h2>
           <Text>
-            Nossa idéia é tentar reunir as pessoas que realmente nos importam, para uma trocação de tiro honesta.
-      </Text>
+            Nossa idéia é reunir as pessoas que realmente nos importam, para uma trocação de tiro honesta.
+          </Text>
           <Button desktop href="steam://connect/34.95.228.42:27015">jogar agora</Button>
           <Button secondary href="https://discord.gg/8EA3T7w">discord</Button>
         </Block>
