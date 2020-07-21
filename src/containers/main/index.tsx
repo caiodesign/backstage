@@ -25,7 +25,7 @@ function Main() {
       <Gallery imgs={imgs} />
       <Container>
         <Header
-          title="chics eventos"
+          title="chics festival"
           overtitle="sex., 31 de jul. – dom., 2 de ago."
         />
         <SimpleRow
