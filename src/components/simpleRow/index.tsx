@@ -14,7 +14,7 @@ type Props = {
 function SimpleRow({ icon, title, link }: Props) {
   return (
     <S.Block>
-      <a href={link} target="_blank">
+      <a href={link} target="_blank" rel="noopener noreferrer">
         <S.Flex>
           <div>
             <S.Icon>
